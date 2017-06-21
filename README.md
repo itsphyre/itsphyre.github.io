@@ -1,5 +1,5 @@
 ## Welcome to almajors.me
-Currently under onstruction
+<p>Currently under Construction</p>
 
 You can use the [editor on GitHub](https://github.com/itsphyre/itsphyre.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -18,7 +18,7 @@ div {
   height: 200px;
   background-size: cover;
   position: relative;
-  margin: 40px 0 0 0;
+  margin: 10px 0 0 0;
   border-radius: 12px;
 }
 
