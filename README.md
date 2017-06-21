@@ -1,5 +1,5 @@
 ## Welcome to almajors.me
-<p>Currently under Construction</p>
+## Currently under Construction
 
 You can use the [editor on GitHub](https://github.com/itsphyre/itsphyre.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -47,7 +47,7 @@ p {
 </head>
 
 <body>
-<h1>esha's restaurant</h1>
+<h1>Chase's Cafe</h1>
 <div class="first">
 <p>welsh onion soko $14<br />
 <small>Mustard sierra leone bologi kale chard beet greens black-eyed pea sorrel amaranth garlic tigernut spring onion summer purslane asparagus lentil. </small></p>
