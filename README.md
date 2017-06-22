@@ -15,7 +15,7 @@ created by Al MAjors</p>
 body {
   font-family: helvetica, sans-serif;
   margin: 0 auto;
-  max-width: 600px;
+  max-width: 800px;
   
 }
 div {
