@@ -4,9 +4,9 @@
 
 <body>
 <P> This is a site will be used as a<font size="3" color="red">portfolio to showcase !</font>  some of the web content.
-<br>created by Al MAjors</p>
+created by Al MAjors</p>
 </body>
-
+<br>
 
 !<!DOCTYPE html>!
 <html>
