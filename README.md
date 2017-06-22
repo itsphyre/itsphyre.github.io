@@ -3,7 +3,7 @@
 
 
 
-
+<!DOCTYPE html>
 <html>
 <head>
 
@@ -49,7 +49,7 @@ p {
 <br>
 <br>
 <br>
-<p> the portfolio page</p>
+<q> the portfolio page</q>
 <br>
 <br>
 <body>
