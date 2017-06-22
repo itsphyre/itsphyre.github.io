@@ -12,7 +12,7 @@ body {
   font-family: helvetica, sans-serif;
   margin: 0 auto;
   max-width: 600px;
-  position: center;
+  align: center;
 }
 div {
   height: 200px;
