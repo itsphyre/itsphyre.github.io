@@ -2,15 +2,20 @@
 ## Currently under Construction
 <br>
 
+<body>
+<P> This is a site will be used as a<font size="3" color="red">portfolio to showcase !</font>  some of the web content.
+<br>created by Al MAjors</p>
+</body>
 
-<!DOCTYPE html>
 
+!<!DOCTYPE html>!
+<html>
 <head>
 
 <style>
 body {
   font-family: helvetica, sans-serif;
-  margin: 0 10;
+  margin: 0 auto;
   max-width: 600px;
   
 }
@@ -62,4 +67,4 @@ p {
 </div>
 </body>
 
-
+</html>
