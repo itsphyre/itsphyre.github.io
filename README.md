@@ -12,11 +12,12 @@ body {
   font-family: helvetica, sans-serif;
   margin: 0 auto;
   max-width: 600px;
+  position: center;
 }
 div {
   height: 200px;
   background-size: cover;
-  position: center;
+  position: relative;
   margin: 40px 0 0 0;
   border-radius: 12px;
 }
