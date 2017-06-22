@@ -10,9 +10,9 @@
 <style>
 body {
   font-family: helvetica, sans-serif;
-  margin: 0 auto;
+  margin: 0 10;
   max-width: 600px;
-  align: center;
+  
 }
 div {
   height: 200px;
