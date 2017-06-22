@@ -16,8 +16,8 @@ body {
 div {
   height: 200px;
   background-size: cover;
-  position: relative;
-  margin: 0 0 0 0;
+  position: center;
+  margin: 40px 0 0 0;
   border-radius: 12px;
 }
 
