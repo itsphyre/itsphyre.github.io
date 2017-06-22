@@ -8,7 +8,6 @@ created by Al MAjors</p>
 </body>
 <br>
 
-!<!DOCTYPE html>!
 <html>
 <head>
 
