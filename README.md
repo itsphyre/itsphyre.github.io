@@ -49,7 +49,7 @@ p {
 <br>
 <br>
 <br>
-<block quote> the portfolio page</blockquote>
+<p> the portfolio page</p>
 <br>
 <br>
 <body>
