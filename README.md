@@ -66,3 +66,9 @@ p {
 </body>
 
 </html>
+<style>
+body {
+    background-image: url("paper.gif");
+    background-color: #cccccc;
+}
+</style>
