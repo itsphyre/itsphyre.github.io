@@ -2,11 +2,7 @@
 ## Currently under Construction
 <br>
 
-<html>
-<P> This is a site will be used as a<font size="3" color="red"> portfolio to showcase !</font> some of the web content.
-created by Al MAjors</p>
-</html>
-<br>
+
 
 <html>
 <head>
