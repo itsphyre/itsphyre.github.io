@@ -45,7 +45,8 @@ p {
 </style>
 
 </head>
-
+<br>
+<br>
 <body>
 <h1>Chase's Cafe</h1>
 <div class="first">
