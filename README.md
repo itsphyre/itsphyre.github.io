@@ -5,6 +5,7 @@
 
 
 <html>
+<title color: 'blue'>Demo Portfolio </title>
 <head>
 
 <style>
