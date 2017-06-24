@@ -53,6 +53,14 @@ p {
 <q> the portfolio page</q>
 <br>
 <br>
+<ul class="graph">
+	<li class="percent20">20%</li>
+	<li class="percent40">40%</li>
+	<li class="percent60">60%</li>
+	<li class="percent80">80%</li>
+	<li class="percent100">100%</li>
+</ul>
+
 <body>
 <h1>Chase's Cafe</h1>
 <div class="first">
