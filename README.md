@@ -43,6 +43,12 @@ p {
 .dessert{
   background-image: url("http://dash.ga.co/assets/dessertcourse.jpg");
 }
+.box{
+width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+    }
 </style>
 
 </head>
@@ -53,40 +59,7 @@ p {
 <q> the portfolio page</q>
 <br>
 <br>
-ul.graph
-{
-	margin: 0;
-	padding: 0;
-	list-style-type: none;
-}
-	
-ul.graph li
-{
-	margin-bottom: .5em;
-	padding: .2em;
-	background: #600;
-	color: #fff;
-}
-	
-ul.graph li.percent20
-{
-	background: url(graph20.jpg) repeat-y 20% 0;
-}
-	
-ul.graph li.percent40
-{
-	background: url(graph40.jpg) repeat-y 40% 0;
-}
-	
-ul.graph li.percent60
-{
-	background: url(graph60.jpg) repeat-y 60% 0;
-}
-	
-ul.graph li.percent80
-{
-	background: url(graph80.jpg) repeat-y 80% 0;
-}
+
 <ul class="graph">
 	<li class="percent20">20%</li>
 	<li class="percent40">40%</li>
@@ -94,6 +67,7 @@ ul.graph li.percent80
 	<li class="percent80">80%</li>
 	<li class="percent100">100%</li>
 </ul>
+<div class="box"> Portfolio </div>
 
 <body>
 <h1>Chase's Cafe</h1>
