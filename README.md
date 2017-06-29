@@ -66,10 +66,10 @@ width: 800px;
 <br>
 
 <ul class="graph">
-	<li>20%</li>
-	<li class="percent40">40%</li>
-	<li class="percent60">60%</li>
-	<li class="percent80">80%</li>
+	<li>Experience in HTML5/CSS3</li>
+	<li>40%</li>
+	<li>60%</li>
+	<li>80%</li>
 	
 </ul>
 <br>
