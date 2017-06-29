@@ -44,7 +44,7 @@ p {
   background-image: url("http://dash.ga.co/assets/dessertcourse.jpg");
 }
 .box{
-width: 300px;
+width: 800px;
     border: 25px solid white;
     padding: 25px;
     margin: 25px;
@@ -66,11 +66,11 @@ width: 300px;
 <br>
 
 <ul class="graph">
-	<li class="percent20">20%</li>
+	<li>20%</li>
 	<li class="percent40">40%</li>
 	<li class="percent60">60%</li>
 	<li class="percent80">80%</li>
-	<li class="percent100">100%</li>
+	
 </ul>
 <br>
 <br>
