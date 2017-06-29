@@ -60,6 +60,11 @@ width: 300px;
 <br>
 <br>
 
+
+<div class="box"> Portfolio </div>
+<br>
+<br>
+
 <ul class="graph">
 	<li class="percent20">20%</li>
 	<li class="percent40">40%</li>
@@ -67,8 +72,8 @@ width: 300px;
 	<li class="percent80">80%</li>
 	<li class="percent100">100%</li>
 </ul>
-<div class="box"> Portfolio </div>
-
+<br>
+<br>
 <body>
 <h1>Chase's Cafe</h1>
 <div class="first">
