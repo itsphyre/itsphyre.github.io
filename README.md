@@ -45,7 +45,7 @@ p {
 }
 .box{
 width: 300px;
-    border: 25px black;
+    border: 25px solid white;
     padding: 25px;
     margin: 25px;
     }
