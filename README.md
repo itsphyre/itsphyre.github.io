@@ -56,12 +56,12 @@ width: 800px;
 <br>
 <br>
 <br>
-<q> the portfolio page</q>
+<q><fontsize=18> Be good only if</font></q>
 <br>
 <br>
 
 
-<div class="box"> Greetings My name is Al Majors Jr</div>
+<div class="box"> Greetings My name is Al Majors Jr and i have set up this page to showcase some of my </div>
 <br>
 <br>
 
