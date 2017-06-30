@@ -61,13 +61,15 @@ width: 800px;
 <br>
 
 
-<div class="box"> Greetings My name is Al Majors Jr and i have set up this page to showcase some of my </div>
+<div class="box"> Greetings My name is Al Majors Jr and i have set up this page to showcase some of my coding 
+<br>
+prowess. I anted to make a portfolio type of page that did not use a template but try to add my own style and vision</div>
 <br>
 <br>
 
 <ul class="graph">
 	<li>Many years of HTML5/CSS3 experience</li>
-	<li>Knowledgable of  C++ and C#</li>
+	<li>Knowledgable of C++ and C#</li>
 	<li> Proficient in MySQL</li>
 	<li>expertise in developing in wordpress</li>
 	
