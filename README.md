@@ -63,15 +63,16 @@ width: 800px;
 
 <div class="box"> Greetings My name is Al Majors Jr and i have set up this page to showcase some of my coding 
 <br>
-prowess. I anted to make a portfolio type of page that did not use a template but try to add my own style and vision</div>
+prowess. I anted to make a portfolio type of page that did not use a template but try to add my own style and vision.
+I will be updating this site every few weeks. Feel free to email me its-am@almajors.me</div>
 <br>
 <br>
 
 <ul class="graph">
 	<li>Many years of HTML5/CSS3 experience</li>
 	<li>Knowledgable of C++ and C#</li>
-	<li> Proficient in MySQL</li>
-	<li>expertise in developing in wordpress</li>
+	<li>Proficient in MySQL</li>
+	<li>Expertise developing in wordpress</li>
 	
 </ul>
 <br>
