@@ -84,6 +84,14 @@ I will be updating this site every few weeks. Feel free to email me its-am@almaj
   Last name: <input type="text" name="lname"><br>
   <input type="submit" value="Submit">
 </form>
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+    var x = document.getElementById("myForm").elements.length;
+    document.getElementById("demo").innerHTML = "Found " + x + " elements in the form.";
+}
+</script>
 
 
 <br>
