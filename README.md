@@ -56,7 +56,7 @@ width: 800px;
 <br>
 <br>
 <br>
-<font size= "18"> Be good only if you cant be great</font>
+<font size= "18" color="red"> "Be good only if you cant be great"</font>
 <br>
 <br>
 
