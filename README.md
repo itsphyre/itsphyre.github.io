@@ -80,8 +80,8 @@ I will be updating this site every few weeks. Feel free to email me its-am@almaj
 <br>
 <br>
 <form id="myForm" action="/action_page.php" method="get">
-  First name: <input type="text" name="fname" value="fname"><br>
-  Last name: <input type="text" name="lname" value="lname"><br>
+  First name: <input type="text" name="fname" value=""><br>
+  Last name: <input type="text" name="lname" value=""><br>
   <input type="submit" value="Submit">
 </form>
 
