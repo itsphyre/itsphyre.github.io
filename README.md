@@ -63,7 +63,7 @@ width: 800px;
 
 <div class="box"> Greetings My name is Al Majors Jr and i have set up this page to showcase some of my coding 
 <br>
-prowess. I anted to make a portfolio type of page that did not use a template but try to add my own style and vision.
+prowess. I wanted to make a portfolio type of page that did not use a template but try to add my own style and vision.
 I will be updating this site every few weeks. Feel free to email me its-am@almajors.me</div>
 <br>
 <br>
@@ -80,10 +80,13 @@ I will be updating this site every few weeks. Feel free to email me its-am@almaj
 <br>
 <br>
 <form id="myForm" action="/action_page.php" method="get">
-  First name: <input type="text" name="fname"><br>
-  Last name: <input type="text" name="lname"><br>
+  First name: <input type="text" name="fname" value="fname"><br>
+  Last name: <input type="text" name="lname" value="lname"><br>
   <input type="submit" value="Submit">
 </form>
+
+<button onclick="myFunction()">Try it</button>
+
 <p id="demo"></p>
 
 <script>
