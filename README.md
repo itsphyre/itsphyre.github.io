@@ -88,7 +88,6 @@ Here is a simple form!
 
 <button onclick="myFunction()">Try it</button>
 
-<p id="demo"></p>
 
 <script>
 function myFunction() {
