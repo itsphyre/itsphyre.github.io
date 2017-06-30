@@ -66,17 +66,21 @@ width: 800px;
 <br>
 
 <ul class="graph">
-	<li>Experience in HTML5/CSS3</li>
-	<li>40%</li>
-	<li>60%</li>
-	<li>80%</li>
+	<li>Many years of HTML5/CSS3 experience</li>
+	<li>Knowledgable of  C++ and C#</li>
+	<li> Proficient in MySQL</li>
+	<li>expertise in developing in wordpress</li>
 	
 </ul>
 <br>
 <br>
 <br>
 <br>
-
+<form action="/action_page.php" method="get">
+  First name: <input type="text" name="fname"><br>
+  Last name: <input type="text" name="lname"><br>
+  <input type="submit" value="Submit">
+</form>
 
 
 <br>
