@@ -1,5 +1,5 @@
 ## Welcome to almajors.me
-## Currently under Construction
+## Portfolio Beta
 
 
 
@@ -56,7 +56,7 @@ width: 800px;
 <br>
 <br>
 <br>
-<q><font size= "18"> Be good only if you cant be great</font></q>
+<font size= "18"> Be good only if you cant be great</font>
 <br>
 <br>
 
@@ -103,7 +103,7 @@ function myFunction() {
 <br>
 
 
-Here is a sample resume site layout
+Here is a sample restaurant site layout
 
 <body>
 <h1>Chase's Cafe</h1>
