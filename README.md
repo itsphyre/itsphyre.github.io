@@ -79,7 +79,7 @@ I will be updating this site every few weeks. Feel free to email me its-am@almaj
 <br>
 <br>
 <br>
-<form action="/action_page.php" method="get">
+<form id="myForm" action="/action_page.php" method="get">
   First name: <input type="text" name="fname"><br>
   Last name: <input type="text" name="lname"><br>
   <input type="submit" value="Submit">
