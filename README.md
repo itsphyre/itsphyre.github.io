@@ -77,6 +77,7 @@ I will be updating this site every few weeks. Feel free to email me its-am@almaj
 </ul>
 <br>
 <br>
+Here is a simple form!
 <br>
 <br>
 <form id="myForm" action="/action_page.php" method="get">
@@ -103,7 +104,7 @@ function myFunction() {
 <br>
 
 
-
+Here is a sample resume site layout
 
 <body>
 <h1>Chase's Cafe</h1>
