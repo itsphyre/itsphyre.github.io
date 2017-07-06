@@ -81,7 +81,7 @@ div.desc {
 <br>
 
 
-<div class="box"> Greetings My name is Al Majors Jr and i have set up this page to showcase some of my coding 
+<div class="box"> Greetings My name is Al Majors Jr and I have set up this page to showcase some of my coding 
 <br>
 prowess. I wanted to make a portfolio type of page that did not use a template but try to add my own style and vision.
 I will be updating this site every few weeks. Feel free to email me its-am@almajors.me</div>
