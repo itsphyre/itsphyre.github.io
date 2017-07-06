@@ -148,7 +148,4 @@ body {
     background-color: lightblue;
 }
 </style>
-<br>
-<br>
-<br>
 
