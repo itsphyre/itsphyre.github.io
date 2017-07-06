@@ -125,6 +125,6 @@ Here is a sample restaurant site layout
 <style>
 body {
     background-image: url("paper.gif");
-    background-color: #cccccc;
+    background-color: lightblue;
 }
 </style>
