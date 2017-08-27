@@ -87,9 +87,11 @@ div.desc {
 I will be updating this site every few weeks. Feel free to email me its-am@almajors.me</div>
 <br>
 <br>
+<ol><a href="itsphyre.github.io/Sample Strains Excerpt.docx">Creative Writing Sample</a></ol>
+<br>
 
 <ul class="graph">
-	<li>Many years of HTML5/CSS3 experience</li><a href="itsphyre.github.io/Sample Strains Excerpt.docx">Creative Sample</a>
+	<li>Many years of HTML5/CSS3 experience</li>
 	<li>Knowledgable of C++ and C#</li>
 	<li>Proficient in MySQL</li>
 	<li>Expertise developing in wordpress</li>
