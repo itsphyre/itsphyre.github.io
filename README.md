@@ -88,7 +88,7 @@ I will be updating this site every few weeks. Feel free to email me its-am@almaj
 <br>
 <br>
 <ol>
-	<li><a href="itsphyre.github.io/Sample Strains Excerpt.docx">Creative Writing Sample</a><li>
+	<li><a href="itsphyre.github.io/Sample Strains Excerpt.docx">Creative Writing Sample</a></li>
 </ol>
 <br>
 
