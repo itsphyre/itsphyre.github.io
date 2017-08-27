@@ -81,14 +81,15 @@ div.desc {
 <br>
 
 
-<div class="box"> Greetings My name is Al Majors and I have set up this page to showcase some of my writing and coding 
-<br>
-. I wanted to make a portfolio type of page that did not use a template but try to add my own style and vision.
+<div class="box"> Greetings My name is Al Majors and I have set up this page to showcase some of my writing and coding expertise. 
+I have added some of my writing samples and some of my coding layouts.
 I will be updating this site every few weeks. Feel free to email me its-am@almajors.me</div>
 <br>
+Writing Samples below
 <br>
 <ol>
 	<li><a href="itsphyre.github.io/Sample Strains Excerpt.docx">Creative Writing Sample</a></li>
+	<li><a href="itsphyre.github.io/Sample reviews.docx">Sample Reviews</a> </li>
 </ol>
 <br>
 
