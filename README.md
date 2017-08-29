@@ -90,6 +90,7 @@ Writing Samples below
 <ol>
 	<li><a href="itsphyre.github.io/Sample Strains Excerpt.docx">Creative Writing Sample</a></li>
 	<li><a href="itsphyre.github.io/Sample reviews.docx">Sample Reviews</a> </li>
+	<li><a href="itsphyre.github.io/Microsoft PowerPoint 2010 I-sample.pdf>Technical Writing Sample</a></li> 
 </ol>
 <br>
 A little about my programming knowledge...
