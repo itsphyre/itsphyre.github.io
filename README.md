@@ -83,7 +83,7 @@ div.desc {
 
 <div class="box"> Greetings My name is Al Majors and I have set up this page to showcase some of my writing and coding expertise. 
 I have added some of my writing samples and some of my coding layouts.
-I will be updating this site every few weeks. Feel free to email me its-am@almajors.me</div>
+I will be updating this site every few weeks. Feel free to email me at its-am@almajors.me</div>
 <br>
 Writing Samples below
 <br>
