@@ -10,9 +10,7 @@
 
 <style>
 body {
-  font-family: helvetica, sans-serif;
-  margin: 0 auto;
-  max-width: 900px;
+ 
 Background-image: itsphyre.github.io/logo AM.jpg
   
 }
