@@ -10,8 +10,10 @@
 
 <style>
 body {
- 
-Background-image: itsphyre.github.io/logo AM.jpg
+  font-family: helvetica, sans-serif;
+  margin: 0 auto;
+  max-width: 900px;
+
   
 }
 div {
@@ -152,8 +154,8 @@ Here is a sample restaurant site layout
 </html>
 <style>
 body {
-    background-image: url("paper.gif");
-    background-color: lightblue;
+	Background-image: itsphyre.github.io/logoAM.jpg
+   
 }
 </style>
 
