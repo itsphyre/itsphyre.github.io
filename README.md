@@ -154,7 +154,7 @@ Here is a sample restaurant site layout
 </html>
 <style>
 body {
-	Background-image: url("logoAM.jpg")
+	Background-image: url("logo AM.jpg") 
    
 }
 </style>
