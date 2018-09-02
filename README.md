@@ -22,6 +22,7 @@ div {
   position: relative;
   margin: 40px 0 0 0;
   border-radius: 12px;
+  color: grey;
 }
 
 p {
