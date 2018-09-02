@@ -22,7 +22,7 @@ div {
   position: relative;
   margin: 40px 0 0 0;
   border-radius: 12px;
-  color: "grey";
+  color: "black";
 }
 
 p {
@@ -47,7 +47,7 @@ p {
 }
 .box{
 width: 800px;
-    border: 25px solid white;
+    border: 25px solid grey;
     padding: 25px;
     margin: 25px;
     }
