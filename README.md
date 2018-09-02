@@ -102,14 +102,12 @@ Writing Samples below
 </ol>
 <br>
 A little about my programming knowledge...
-<br>
 <ul class="graph">
 	<li>Many years of HTML5/CSS3 experience</li>
 	<li>Knowledgable of C++ and C#</li>
 	<li>Proficient in MySQL</li>
 	<li>Expertise developing in wordpress</li>
-	
-</ul>
+	</ul>
 <br>
 <br>
 <br>
