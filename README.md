@@ -22,7 +22,7 @@ div {
   position: relative;
   margin: 40px 0 0 0;
   border-radius: 12px;
-  color: grey;
+  color: "grey";
 }
 
 p {
@@ -110,7 +110,6 @@ A little about my programming knowledge...
 	<li>Expertise developing in wordpress</li>
 	
 </ul>
-<br>
 <br>
 <br>
 <br>
