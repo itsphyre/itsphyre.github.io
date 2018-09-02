@@ -78,7 +78,7 @@ div.desc {
 <br>
 <br>
 <br>
-<font size= "18" color="red"> "Be good only if you can not be great"</font>
+<font size= "18" color="black"> "Be good only if you can not be great"</font>
 <br>
 <br>
 
