@@ -102,7 +102,10 @@ Writing Samples below
         <li><a href="itsphyre.github.io/Microsoft PowerPoint 2010 II-Sample.pdf"> Technical Writing Sample II</a></li>
 	<li><a href="itsphyre.github.io/Prog-3 ext.docx">Screenplay Sample</a> </li>
 </ol>
-
+<br>
+<br>
+<br>
+<br>
 A little about my programming knowledge...
 <ul class="graph">
 	<li>Many years of HTML5/CSS3 experience</li>
