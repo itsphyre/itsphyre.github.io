@@ -94,7 +94,8 @@ I will be updating this site every few weeks. Feel free to email me at its-am@al
 Writing Samples below
 <br>
 <ol>	
-	<li><a href="itsphyre.github.io/High End, High Value (beauty and health copy).docx"> Health and Beauty Copy Sample</a></li>
+	<li><a href="itsphyre.github.io/Fitness and Health (copy).docx"> Health and Fitness Copy Sample</a></li>
+	<li><a href="itsphyre.github.io/High End, High Value (beauty and health copy).docx"> Wellness and Beauty Copy Sample</a></li>
 	<li><a href="itsphyre.github.io/Sample Strains Excerpt.docx">Creative Writing Sample</a></li>
 	<li><a href="itsphyre.github.io/Sample reviews.docx">Sample Reviews</a> </li>
 	<li><a href="itsphyre.github.io/Microsoft PowerPoint 2010 I-sample.pdf">Technical Writing Sample</a></li>
