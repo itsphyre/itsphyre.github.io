@@ -110,6 +110,10 @@ Writing Samples below
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 A little about my programming knowledge...
 <ul class="graph">
 	<li>Many years of HTML5/CSS3 experience</li>
